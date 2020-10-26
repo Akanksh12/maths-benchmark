@@ -1,0 +1,11 @@
+Hello!
+I'm glad that you have downloaded maths benchmark!
+
+how it works:
+let's take 1 as n
+now we add n with n again
+which makes n now 2
+this pattern is executed for the number of times you have typed in the beggining of the program.
+the time taken is given too at the end.
+
+Note: it may take a while as you are making you're computer a lot of numeber crunching.
